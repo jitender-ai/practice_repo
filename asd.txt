@@ -1,0 +1,4 @@
+To make sure your local branch FixForBug is not 
+ahead of the remote branch FixForBug pull and merge 
+the changes before pushing.
+hy there how are you all??
