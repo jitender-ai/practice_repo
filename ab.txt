@@ -1,6 +1,12 @@
 how are you?
 kse ho aap?
+<<<<<<< HEAD
 i am good and cool too
 how about you?
  i am just looking for the job change
  at the same time i am waiting for the same.
+=======
+i am always good
+number four 
+so what about your mom and daddy?
+>>>>>>> abc

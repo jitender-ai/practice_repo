@@ -1,4 +1,9 @@
 i am good 
 you tell me
 kya bolu m to
+<<<<<<< HEAD
 hye guys iam good?
+=======
+lolololololol
+great line boys
+>>>>>>> abc
